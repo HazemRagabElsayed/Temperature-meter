@@ -24,6 +24,9 @@ this project is a temperature sensor that turns a certain temperature into a cer
 
 -Each range of decimal numbers represent a certain voltage which results in a shift in accuracy as in ADC there are a number of levels which is determined by number of bits that is outputted from ADC
 for example 10-bit ADC has a number of levels equal to 1024 as it equals 2^10
+
 -I used internal reference voltage (2.56 V) of ADC which made the accuracy high 
+
 -each step contains certain range of decimal values that represents a certain voltage
+
 -step = (reference voltage)/(number of levels) -> which means smaller steps give higher accuracy
