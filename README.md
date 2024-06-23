@@ -10,6 +10,8 @@ this project is a temperature sensor that turns a certain temperature into a cer
 
 -LCD 16x2 (for displaying Temperature in Celsius)
 
+-10 uf capacitor (as it is mentioned in datasheet of Atmega32)
+
 -DC VOLTMETER (for measuring output of LM35)
 
 ## tools used:
