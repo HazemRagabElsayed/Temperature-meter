@@ -2,7 +2,7 @@
  * ADC.h
  *
  * Created: 24/03/2024 03:35:59 م
- *  Author: FREINDS
+ *  Author: Hazem Ragab Elsayed
  */ 
 
 
