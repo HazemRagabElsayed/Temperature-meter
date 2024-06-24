@@ -2,7 +2,7 @@
  * temperature_meter.c
  *
  * Created: 26/04/2024 10:32:52 ص
- *  Author: FREINDS
+ *  Author: Hazem Ragab Elsayed
  */ 
 
 
