@@ -2,7 +2,7 @@
  * LCD.h
  *
  * Created: 24/03/2024 07:47:02 ص
- *  Author: FREINDS
+ *  Author: Hazem Ragab Elsayed
  */ 
 
 
