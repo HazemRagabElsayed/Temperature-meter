@@ -12,13 +12,11 @@
 #include "DIO.h"
 #include "LCD.h"
 #include "ADC.h"
-#include "timer.h"
 volatile unsigned short temp;
 unsigned short counter = 0;
 int main(void)
 {
 	LCD_init();
-
 	ADC_init();
 	temp = .25 * ADC_read();
 	
