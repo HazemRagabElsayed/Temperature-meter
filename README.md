@@ -19,6 +19,8 @@ this project is a temperature sensor that turns a certain temperature into a cer
 
 -Atmel Studio 6.0
 
+-Extreme Burner
+
 ## note:
 -there is a video provided in code folder
 
